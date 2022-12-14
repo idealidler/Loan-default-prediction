@@ -15,14 +15,11 @@ The code also includes exploratory data analysis which provides insights about p
 
 
 Libraries used:
+
 pandas,
-
 numpy,
-
 seaborn,
-
 matplotlib,
-
 sklearn
 
 
