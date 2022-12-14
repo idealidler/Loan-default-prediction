@@ -23,3 +23,5 @@ sklearn
 
 
 To run the file simply import the required libraries and keep the data in the same directory as of code.
+
+Dataset: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
