@@ -8,7 +8,8 @@ Goals and Implications:
 2. A credit risk can result from:
  a. A small account with poor credit and the potential to go out of business
  b. A large account with high concentration that could make your business insolvent
-3.The ultimate goal is to establish a borrower's creditworthiness by quantifying the risk of loss to which the lender is exposed.
+ 
+ 3.The ultimate goal is to establish a borrower's creditworthiness by quantifying the risk of loss to which the lender is exposed.
 
 Using this code, we can predict if the borrower is going to get default or not. 
 The code also includes exploratory data analysis which provides insights about potential defaulters.
